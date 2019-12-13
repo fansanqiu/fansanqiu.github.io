@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuohao7.github.io/</id>
     <title> zhuohao7</title>
-    <updated>2019-12-10T09:36:01.570Z</updated>
+    <updated>2019-12-13T03:08:58.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuohao7.github.io/"/>
     <link rel="self" href="https://zhuohao7.github.io//atom.xml"/>
-    <subtitle>生命在于折腾</subtitle>
     <logo>https://zhuohao7.github.io//images/avatar.png</logo>
     <icon>https://zhuohao7.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019,  zhuohao7</rights>
