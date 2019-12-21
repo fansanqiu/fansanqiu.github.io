@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhuohao7.github.io/</id>
+    <id>https://fansanqiu.github.io/</id>
     <title> zhuohao7</title>
-    <updated>2019-12-21T10:56:24.520Z</updated>
+    <updated>2019-12-21T10:56:59.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zhuohao7.github.io/"/>
-    <link rel="self" href="https://zhuohao7.github.io//atom.xml"/>
-    <logo>https://zhuohao7.github.io//images/avatar.png</logo>
-    <icon>https://zhuohao7.github.io//favicon.ico</icon>
+    <link rel="alternate" href="https://fansanqiu.github.io/"/>
+    <link rel="self" href="https://fansanqiu.github.io//atom.xml"/>
+    <logo>https://fansanqiu.github.io//images/avatar.png</logo>
+    <icon>https://fansanqiu.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019,  zhuohao7</rights>
     <entry>
         <title type="html"><![CDATA[Figma 常用插件推荐]]></title>
-        <id>https://zhuohao7.github.io//post/figma-chang-yong-cha-jian-tui-jian</id>
-        <link href="https://zhuohao7.github.io//post/figma-chang-yong-cha-jian-tui-jian">
+        <id>https://fansanqiu.github.io//post/figma-chang-yong-cha-jian-tui-jian</id>
+        <link href="https://fansanqiu.github.io//post/figma-chang-yong-cha-jian-tui-jian">
         </link>
         <updated>2019-12-10T07:34:36.000Z</updated>
         <content type="html"><![CDATA[<h2 id="目录">📋 目录</h2>
@@ -96,15 +96,15 @@
 </table>
 <p><br><br></p>
 <h2 id="content-reel">Content Reel</h2>
-<figure data-type="image" tabindex="1"><img src="https://zhuohao7.github.io//post-images/1575963329151.png" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://fansanqiu.github.io//post-images/1575963329151.png" alt=""></figure>
 <p>您的布局需要内容吗？Content Reel可以帮助您轻松地将文本字符串、头像和图标拖入您的设计中。在设计中选择一个或多个图层，然后从内容卷轴调色板中选择要应用的内容类型填充。---官方描述翻译</p>
 <p><br><br></p>
 <h2 id="feather-icons">Feather Icons</h2>
-<figure data-type="image" tabindex="2"><img src="https://zhuohao7.github.io//post-images/1575963422012.png" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://fansanqiu.github.io//post-images/1575963422012.png" alt=""></figure>
 <p>快速在 Figma 中访问 Feather Icons。网站：<a href="https://feathericons.com">官网</a>。这个插件是开源的：<a href="https://github.com/feathericons/figma-feather">github 地址</a>。---官方描述翻译</p>
 <p><br><br></p>
 <h2 id="dominant-color-toolkit">Dominant Color Toolkit 🎨</h2>
-<figure data-type="image" tabindex="3"><img src="https://zhuohao7.github.io//post-images/1575963431024.png" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://fansanqiu.github.io//post-images/1575963431024.png" alt=""></figure>
 <p>从图像生成调色板，用来神奇地填充您的设计。---官方描述翻译<br>
 <br><br><br>
 |<br>
@@ -124,9 +124,9 @@
 |<br>
 <br><br><br>
 ............好多啊，不想写了，大家看目录简介吧，有什么不懂的 or 有什么需要的插件然后我没提到的欢迎评论提问</p>
-<figure data-type="image" tabindex="4"><img src="https://zhuohao7.github.io//post-images/1575963437356.jpg" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://fansanqiu.github.io//post-images/1575963437356.jpg" alt=""></figure>
 <p>最后多说一句：插件虽好，可别贪杯，用到什么装什么才是最合适的，不然一堆插件你会找不到想要用的，专一的人最帅气/美丽</p>
-<figure data-type="image" tabindex="5"><img src="https://zhuohao7.github.io//post-images/1575963445952.jpg" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://fansanqiu.github.io//post-images/1575963445952.jpg" alt=""></figure>
 <p>都看到这里了，分享个石墨链接，可以收藏一下，以后遇到好用的插件都在这里更新👉👉👉👉<a href="https://shimo.im/sheets/wgrJXxCPp6yChDwr/MODOC/">Figma 常用插件列表</a></p>
 ]]></content>
     </entry>
