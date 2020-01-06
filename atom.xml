@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fansanqiu.github.io/</id>
-    <title> zhuohao7</title>
-    <updated>2020-01-06T06:33:06.323Z</updated>
+    <title>FanSanQiu</title>
+    <updated>2020-01-06T06:33:34.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fansanqiu.github.io/"/>
     <link rel="self" href="https://fansanqiu.github.io/atom.xml"/>
     <logo>https://fansanqiu.github.io/images/avatar.png</logo>
     <icon>https://fansanqiu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020,  zhuohao7</rights>
+    <rights>All rights reserved 2020, FanSanQiu</rights>
     <entry>
         <title type="html"><![CDATA[更换音乐软体]]></title>
         <id>https://fansanqiu.github.io/post/geng-huan-yin-le-ruan-ti-yu-</id>
