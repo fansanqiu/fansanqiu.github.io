@@ -2,17 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fansanqiu.github.io/</id>
     <title> zhuohao7</title>
-    <updated>2019-12-21T10:56:59.323Z</updated>
+    <updated>2020-01-06T06:33:06.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fansanqiu.github.io/"/>
-    <link rel="self" href="https://fansanqiu.github.io//atom.xml"/>
-    <logo>https://fansanqiu.github.io//images/avatar.png</logo>
-    <icon>https://fansanqiu.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019,  zhuohao7</rights>
+    <link rel="self" href="https://fansanqiu.github.io/atom.xml"/>
+    <logo>https://fansanqiu.github.io/images/avatar.png</logo>
+    <icon>https://fansanqiu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020,  zhuohao7</rights>
+    <entry>
+        <title type="html"><![CDATA[更换音乐软体]]></title>
+        <id>https://fansanqiu.github.io/post/geng-huan-yin-le-ruan-ti-yu-</id>
+        <link href="https://fansanqiu.github.io/post/geng-huan-yin-le-ruan-ti-yu-">
+        </link>
+        <updated>2020-01-06T02:10:31.000Z</updated>
+        <content type="html"><![CDATA[<p>文章内容纯属扯淡</p>
+<h2 id="背景">🍟背景</h2>
+<p>嗯，大家随便看吧，机缘巧合下，收到了金牛座好友送的 <strong>spotify</strong> 年费，倍感珍惜，加上不想要被国内软件绑架（其实就是付费带来的自我优越）<br>
+<img src="https://fansanqiu.github.io//post-images/1578285531304.jpeg" alt="" loading="lazy"><br>
+然后我就从 <strong>网易云音乐</strong> 出来了，之前有一段时间想要从 <strong>网易云音乐</strong> 出来的，试着换到QQ音乐，歌单是非常方便快捷的导入了，但是，强行逼迫自己用了一段时间后还是选择回到 <strong>网易云音乐</strong> 的怀抱，推荐真的是一言难尽啊。。。。</p>
+<p><br><br></p>
+<h2 id="用户需求">🎶用户需求</h2>
+<p>我是一个近乎12小时播放音乐的人，仅仅作为背景乐，可能是性格使然吧，也可能习惯了（一度怀疑自己会聋），所以不太喜欢有歌词的内容，因此优秀的歌单和随机推荐是必不可少的，因为不愿意吵闹，又不愿意费心思去找歌，结果我™一首首从 <strong>网易云音乐</strong> 把歌转移到 <strong>spotify</strong>。</p>
+<p><br><br></p>
+<h2 id="过程">👋过程</h2>
+<p><strong>spotify</strong> 下载初体验，整体很清新，功能上有点不习惯，倒不是它内容乱或者多，只是单纯的先入为主了，对于功能熟悉。</p>
+<p>稍微试用后---被多端同步记录当前播放记录惊艳到了，amazing啊，真的是爽炸了，特别是对我这个有多个设备的人来说。</p>
+<p>再然后，差点弃坑原因：这广告，是真的硬核到不行啊。不过其实我感觉还好，没那么夸张，主要是因为我听不懂英文，所以有时候他卖广告都后知后觉---------惹？？？？刚刚那是广告么？</p>
+<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BvQ571eAOZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<p>然后就有了背景的那个事情，再次谢谢这位金牛座的朋友。那既然有了，就换吧，于是从 <strong>网易云音乐</strong> 上一首首扒拉过去，其实考虑过使用一键转移歌单的，但是稍微试了一下。嗯。效果有点奇妙。附上我使用的一键转移的教程。对，我也是扒拉别人的。这个名字也是有点标题党。。。远离烦人的广告？？？氪金就不会有广告啦，<strong>网易云音乐</strong> 氪金也没有广告好嘛。<a href="https://yyrcd.com/2018/11/14/n2s-zh/">提取歌单内歌曲</a>，<a href="https://www.spotlistr.com/">导入到spotify</a>。</p>
+<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bs0nJv0HDfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<h3 id="效果不理想效果不理想记住记住-导演这一段加粗加黑一下"><strong>效果不理想，效果不理想，记住记住。导演，这一段加粗加黑一下</strong></h3>
+<p>一首首扒拉音乐的时候发现了一些问题，号称spotify曲库无敌的呢？？？？骗鬼吧，我 <strong>网易云音乐</strong> 1k+多首歌过去不到200首？？？？？排除我不想要导入进去的100来首，四舍五入那还有800多首啊，然而就是没有，<strong>网易云音乐</strong> 有非常丰富的小众歌手版权，民谣，ACG，蒸汽波（背景音乐必备，让你穿越时空，来到2020。我们对未来幻想还是太美好了-----《银翼杀手》）之类的，吃的死死的。</p>
+<p>用了一段时间后是真的爱上了，推荐无敌，它真的知道我喜欢什么，留下了感动的泪水，再次让我感受了一把，音乐软件该有的鸭子。你问我神评在哪看？？？不存在的，不支持，好好听歌，别想那么多，你只需要按下一个播放键，剩下的，什么都不用再做了。就让它自然发生吧。<br>
+<img src="https://fansanqiu.github.io//post-images/1578285564883.jpg" alt="" loading="lazy"></p>
+<p><br><br></p>
+<h2 id="遇到的问题和解决办法">📦遇到的问题和解决办法</h2>
+<ul>
+<li>spotify不显示歌词，只能借助第三方软体，官方不支持，还发声明那种不支持<br>
+Mac电脑下用LyricsX，长下面这个鸭子，在App store一搜就咻的一下出来了，free。其它客户端的懒得一个个列出来了，自己看吧。<a href="https://www.tunefab.tw/spotify/show-spotify-lyrics.html">看这个链接，点它点它！</a><br>
+<img src="https://fansanqiu.github.io//post-images/1578285052944.png" alt="" loading="lazy"><br>
+<br></li>
+<li>spotify登陆问题<br>
+走一下科学通道（小声）<br>
+<br></li>
+<li>全局快捷键，下一首，暂停，上一首啊啥的<br>
+官方说了，不可能支持的，这辈子都不可能的！！！<br>
+<br></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Figma 常用插件推荐]]></title>
-        <id>https://fansanqiu.github.io//post/figma-chang-yong-cha-jian-tui-jian</id>
-        <link href="https://fansanqiu.github.io//post/figma-chang-yong-cha-jian-tui-jian">
+        <id>https://fansanqiu.github.io/post/figma-chang-yong-cha-jian-tui-jian</id>
+        <link href="https://fansanqiu.github.io/post/figma-chang-yong-cha-jian-tui-jian">
         </link>
         <updated>2019-12-10T07:34:36.000Z</updated>
         <content type="html"><![CDATA[<h2 id="目录">📋 目录</h2>
@@ -96,15 +142,15 @@
 </table>
 <p><br><br></p>
 <h2 id="content-reel">Content Reel</h2>
-<figure data-type="image" tabindex="1"><img src="https://fansanqiu.github.io//post-images/1575963329151.png" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://fansanqiu.github.io//post-images/1575963329151.png" alt="" loading="lazy"></figure>
 <p>您的布局需要内容吗？Content Reel可以帮助您轻松地将文本字符串、头像和图标拖入您的设计中。在设计中选择一个或多个图层，然后从内容卷轴调色板中选择要应用的内容类型填充。---官方描述翻译</p>
 <p><br><br></p>
 <h2 id="feather-icons">Feather Icons</h2>
-<figure data-type="image" tabindex="2"><img src="https://fansanqiu.github.io//post-images/1575963422012.png" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://fansanqiu.github.io//post-images/1575963422012.png" alt="" loading="lazy"></figure>
 <p>快速在 Figma 中访问 Feather Icons。网站：<a href="https://feathericons.com">官网</a>。这个插件是开源的：<a href="https://github.com/feathericons/figma-feather">github 地址</a>。---官方描述翻译</p>
 <p><br><br></p>
 <h2 id="dominant-color-toolkit">Dominant Color Toolkit 🎨</h2>
-<figure data-type="image" tabindex="3"><img src="https://fansanqiu.github.io//post-images/1575963431024.png" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://fansanqiu.github.io//post-images/1575963431024.png" alt="" loading="lazy"></figure>
 <p>从图像生成调色板，用来神奇地填充您的设计。---官方描述翻译<br>
 <br><br><br>
 |<br>
@@ -124,9 +170,9 @@
 |<br>
 <br><br><br>
 ............好多啊，不想写了，大家看目录简介吧，有什么不懂的 or 有什么需要的插件然后我没提到的欢迎评论提问</p>
-<figure data-type="image" tabindex="4"><img src="https://fansanqiu.github.io//post-images/1575963437356.jpg" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://fansanqiu.github.io//post-images/1575963437356.jpg" alt="" loading="lazy"></figure>
 <p>最后多说一句：插件虽好，可别贪杯，用到什么装什么才是最合适的，不然一堆插件你会找不到想要用的，专一的人最帅气/美丽</p>
-<figure data-type="image" tabindex="5"><img src="https://fansanqiu.github.io//post-images/1575963445952.jpg" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://fansanqiu.github.io//post-images/1575963445952.jpg" alt="" loading="lazy"></figure>
 <p>都看到这里了，分享个石墨链接，可以收藏一下，以后遇到好用的插件都在这里更新👉👉👉👉<a href="https://shimo.im/sheets/wgrJXxCPp6yChDwr/MODOC/">Figma 常用插件列表</a></p>
 ]]></content>
     </entry>
